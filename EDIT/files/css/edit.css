@@ -1,0 +1,69 @@
+/* GLOBAL CLASSES */
+.sec_title.white {color: #fff}
+.sub_title, .sec_desc {color: #CDCDCD}
+/* GLOBAL CLASSES */
+
+/* NAVBAR And Go Up Btn */
+.fixedHeader {
+    -webkit-box-shadow: 0px 2px 3px 1px rgba(0, 0, 0, 0.25);
+    -moz-box-shadow: 0px 2px 3px 1px rgba(0, 0, 0, 0.25);
+    box-shadow: 0px 2px 3px 1px rgba(0, 0, 0, 0.25);
+}
+.logo img {max-width: 125px}
+.black_color {border-color: #f1f1f1;}
+.black_color .mainmenu ul li a {color: #1d1b1e !important}
+.black_color.fixedHeader .mainmenu ul li a:hover {color: #98D5EA !important}
+.black_color.fixedHeader .mainmenu ul li a:after {background-color: #98D5EA}
+.logo2 a img {width: 154px}
+.popup {background: rgba(152, 213, 234, 0.98)}
+.close-popup {background-color: #1d1b1e; color: #fff}
+.close-popup:after, .close-popup:before {background-color: #fff}
+.dl-menu__wrap ul li a {color: #1d1b1e}
+.dl-menu__wrap ul li a:hover {color: #fff !important}
+.popUp_social ul li a i , .popUp_social ul li a , .footer__contacts li {color: #1d1b1e}
+.popUp_social ul li a i {margin-right: 2px}
+.navigator a {color: #1D1B1E}
+.navigator a:hover {color: #98D5EA !important}
+.showit {background-color: #98D5EA}
+
+/* NAVBAR And Go Up Btn */
+
+/* INDEX */
+.ready_2 {background: url(../images/bg/6.jpg) no-repeat center center / cover;}
+.icon_box_2 {margin-bottom: 50px}
+.icon_box_2 .iconWrap:after {opacity: 30%}
+.sec_title , .icon_box_2 h3 , .icon_box_2 a , .icon_box_2 .iconWrap , .icon_box_2 .iconWrap i , .singlefolio .folioHover h4 a:hover , 
+.detail_TM h5 ,  .common_btn:hover , .lbi_details h2 a , .singleClient_2 h3 {color: #1d1b1e}
+
+.common_btn , .slick-dots li.slick-active, .slick-dots li:hover  , .client_slider .owl-controls .owl-dots .owl-dot.active span, 
+.client_slider .owl-controls .owl-dots .owl-dot:hover span  , .btn_link.bg_black a, .btn_link a:hover {background-color: #1d1b1e}
+
+.slick-dots li , .client_slider .owl-controls .owl-dots .owl-dot span {background-color: #cdcdcd}
+.detail_TM h6:after {background: #98D5EA;}
+/* INDEX */
+
+/* BLOG */
+.sidebar .widget form.searchform input {background-color: #1d1b1e}
+.mpw_item a:hover , .sidebar .widget_title , .meipaly_categorie_widget ul li a:hover {color: #1d1b1e}
+.meipaly_post_widget {background-color: #f1f1f1}
+/* BLOG */
+
+/* Services */
+.commonSection.funfact h2{
+    color: #fff;
+    text-align: center;
+    padding-top: 40px;
+}
+
+/* Services */
+
+/* Footer */
+.footer_1 .aboutwidget p {color: #cdcdcd}
+.footer_1 .contact_widgets p {color: #cdcdcd}
+.footer_1 .copyright a, .footer_1 .contact_widgets p a, .footer_1 .copyright {color: #cdcdcd}
+.footer_1 .social_widget ul li a {color: #cdcdcd}
+.social-networks span {margin-left: 10px}
+.social-icn {width: 10%; display: inline-block}
+.copyright a {color: #98D5EA}
+.footer_1 .aboutwidget img {max-width: 320px}
+/* Footer */
